@@ -1,0 +1,34 @@
+Create extension postgis;
+
+https://gdal.org/drivers/vector/pg.html
+
+https://www.youtube.com/watch?v=0lWCM87HNcE&ab_channel=GeoMindz.com
+
+
+https://www.youtube.com/watch?v=AUzR58HIn3o&ab_channel=NavyaGarg
+
+
+https://www.youtube.com/watch?v=FrUucWDZxwg&ab_channel=AndreaRoss
+
+
+
+
+MPS 1st Sprint [1st Feb - 14th Feb]:
+1. Reading data from DB with GDAL
+2. Drawing the shapes
+3. 3D data sets
+4. 3D data write to DB
+5. 3D data read from DB
+6. 3D data drawing
+7. Tiling
+8. User interactions
+9. UI functionalities
+10. Side menu with pre defined data sets (Distinct of areas of interests on top of base map)
+11. Layers per data set in side nav
+12. UI refinements for better UX
+13. Editing Mode, Viewing Mode
+14. Defining editing functionalities
+15. Capturing editing data and saving as new layers to same data set
+
+
+
